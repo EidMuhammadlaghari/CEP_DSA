@@ -7,6 +7,6 @@ Flight delays are a major problem in civil aviation and happens every day, somet
 The aim of this research is to investigate the factors that may contribute to flight delays and to predict the flights arrival and their delay time. The accurate prediction of flight delays is of great significance to airports, airlines and passengers. Predicting delays will help an airport to adjust resource allocations, quickly analyze the causes, and take measures to reduce or eliminate delays. It can also help the passengers to avoid wait at the airports.
 # Group members:
 1) Ali Mehran   (20sw008) (https://github.com/ALiMehran01).
-2) Eid Muhammad (20sw009).
-3) Adeel Rauf   (20sw018) ().
+2) Eid Muhammad (20sw009) (https://github.com/EidMuhammadlaghari).
+3) Adeel Rauf   (20sw018) (https://github.com/Adeel-abbasi).
 
